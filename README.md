@@ -25,4 +25,4 @@ Note :
 | GPIO 18    | SCK ETHERNET     |  OK |
 | GPIO 5    | SS ETHERNET     |  OK |
 
-4. Block Diagram pada file "2 GITHUB.jpg"
+3. Block Diagram pada file "2 GITHUB.jpg"
